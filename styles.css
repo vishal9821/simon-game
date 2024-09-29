@@ -77,7 +77,7 @@ body {
 }
 
 
-@media (max-width:500px){
+@media (max-width:480px){
   #level-title {
     font-size: 2rem;
     margin-top: 8rem;
@@ -103,4 +103,4 @@ body {
   
   }
   
-}
+};
